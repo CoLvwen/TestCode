@@ -1,0 +1,4 @@
+﻿  contact.c
+C:\code\Contact\Contact\contact.c(106,11): warning C4098: “IniContact”:“void”函数返回值
+C:\code\Contact\Contact\contact.c(337,11): warning C4098: “SaveContact”:“void”函数返回值
+  Contact.vcxproj -> C:\code\Contact\x64\Debug\Contact.exe

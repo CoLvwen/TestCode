@@ -1,0 +1,9 @@
+﻿  contact.c
+C:\code\Contact\Contact\contact.c(106,11): warning C4098: “IniContact”:“void”函数返回值
+C:\code\Contact\Contact\contact.c(337,11): warning C4098: “SaveContact”:“void”函数返回值
+  test.c
+  正在生成代码
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 25 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Contact.vcxproj -> C:\code\Contact\x64\Release\Contact.exe

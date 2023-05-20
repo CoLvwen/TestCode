@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Contact", "Contact\Contact.vcxproj", "{DE9E533D-C045-4323-B16A-75790279DB46}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ContactSetup", "ContactSetup\ContactSetup.vdproj", "{FCA23B20-94EF-4806-B5E4-4A97B50BD82F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE9E533D-C045-4323-B16A-75790279DB46}.Debug|x64.ActiveCfg = Debug|x64
+		{DE9E533D-C045-4323-B16A-75790279DB46}.Debug|x64.Build.0 = Debug|x64
+		{DE9E533D-C045-4323-B16A-75790279DB46}.Debug|x86.ActiveCfg = Debug|Win32
+		{DE9E533D-C045-4323-B16A-75790279DB46}.Debug|x86.Build.0 = Debug|Win32
+		{DE9E533D-C045-4323-B16A-75790279DB46}.Release|x64.ActiveCfg = Release|x64
+		{DE9E533D-C045-4323-B16A-75790279DB46}.Release|x64.Build.0 = Release|x64
+		{DE9E533D-C045-4323-B16A-75790279DB46}.Release|x86.ActiveCfg = Release|Win32
+		{DE9E533D-C045-4323-B16A-75790279DB46}.Release|x86.Build.0 = Release|Win32
+		{FCA23B20-94EF-4806-B5E4-4A97B50BD82F}.Debug|x64.ActiveCfg = Debug
+		{FCA23B20-94EF-4806-B5E4-4A97B50BD82F}.Debug|x86.ActiveCfg = Debug
+		{FCA23B20-94EF-4806-B5E4-4A97B50BD82F}.Release|x64.ActiveCfg = Release
+		{FCA23B20-94EF-4806-B5E4-4A97B50BD82F}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1332E3E-9714-4D65-A05C-057BF9E7D2DF}
+	EndGlobalSection
+EndGlobal
